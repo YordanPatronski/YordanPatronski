@@ -2,7 +2,7 @@
 - 👀 I’m interested in using ChatGPT for video analysis
 - 🌱 I’m currently learning to trade the FX & Commodities Marketplace
 - 💞️ I’m looking to collaborate on API plug ins
-- 📫 How to reach me y.patronski2021@gmail.com
+- 📫 How to reach me https://twitter.com/Y_Patronski2021
 
 <!---
 YordanPatronski/YordanPatronski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
